@@ -16,6 +16,8 @@ PHP YouTube Viewing Bot with a Random Proxy &amp; Random User Agent
 [![demo button](https://i.imgur.com/3Ugm8J7.jpg)](https://criminal.ml/webapp/proxy) 
 
 
-## Technology
+## Languages
 * HTML
 * PHP
+* JavaScript
+* CSS
