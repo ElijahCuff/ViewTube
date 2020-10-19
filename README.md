@@ -1,8 +1,8 @@
 ViewTube
 ======
 PHP YouTube Viewing Bot with a Random Proxy &amp; Random User Agent 
-![screen](2020_06_22_18_47_19.gif)
-
+![screen](Screenshot_2020-10-20-07-35-36.jpg)   
+![screen](Screenshot_2020-10-20-07-35-36.jpg)
 ## Usage
 * Copy To Hosting Provider
 * Open a desired YouTube video and select Share
