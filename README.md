@@ -10,7 +10,7 @@ PHP YouTube Viewing Bot with a Random Proxy &amp; Random User Agent
 ( this enables embedding on the video if it wasn't already enabled )    
 
 * Now grab the Video ID from the YouTube Link - after enabling embedding.
-* Open Index.php and enter your link.
+* Open Index.php and enter your video ID.
 
 ### Try It Now
 [![demo button](https://i.imgur.com/3Ugm8J7.jpg)](https://criminal.ml/webapp/proxy) 
